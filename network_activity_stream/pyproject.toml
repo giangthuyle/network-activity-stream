@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "network-activity-stream"
+version = "0.1.0"
+description = ""
+authors = ["hinata356 <piano.natsu@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
